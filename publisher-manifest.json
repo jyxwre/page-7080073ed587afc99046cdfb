@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "bedf0bc295297d825b83dfb8",
+  "owner": "jyxwre",
+  "repo": "page-7080073ed587afc99046cdfb",
+  "title": "161886",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "7080073ed587afc99046cdfb",
+      "a": "161886",
+      "b": "",
+      "entity": "161886",
+      "brand": "161886",
+      "separator": "",
+      "path": "index.html",
+      "hash": "88f2b6791d9db7f0df07f9cd0e615fc0f652ee9cc466711977df5eb5c0de4755",
+      "content": {
+        "keyword1": "161886",
+        "keyword2": "",
+        "primary_entity": "161886",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "161886是提供机场订阅与VPN梯子网络加速的官方网站，支持多端客户端下载，覆盖流媒体解锁、游戏加速与团队组网，透明套餐助力稳定连接。",
+          "AI_DESCRIPTION": "161886是提供机场订阅与VPN梯子网络加速的官方网站，支持多端客户端下载，覆盖流媒体解锁、游戏加速与团队组网，透明套餐助力稳定连接。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}body{margin:0;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",sans-serif;background:#fff8f3;color:#2b241f;line-height:1.65;font-size:16px;overflow-x:hidden}a{color:#c94a3a;text-decoration:none}a:hover{text-decoration:underline}header{background:#fff;border-bottom:1px solid #f0d4c8;padding:.75rem 1rem;position:sticky;top:0} .wrap{max-width:960px;margin:0 auto;padding:0 1rem}.nav{display:flex;flex-wrap:wrap;gap:.75rem 1.25rem;align-items:center;justify-content:space-between}.brand{font-weight:700;font-size:1.25rem;color:#c94a3a}nav a{color:#2b241f;font-size:.95rem}h1{font-size:1.75rem;line-height:1.3;margin:0 0 1rem;color:#1f1a16}h2{font-size:1.35rem;color:#1f1a16;margin:0 0 .75rem;border-left:4px solid #e85d4c;padding-left:.6rem}h3{font-size:1.1rem;margin:1rem 0 .5rem}p,li{color:#3d342e}.hero{padding:1.75rem 0 1rem}.stagger{display:flex;flex-wrap:wrap;gap:1.25rem;align-items:flex-start;margin:1.25rem 0}.stagger.reverse{flex-direction:row-reverse}.panel{flex:1 1 280px;background:#fff;border:1px solid #f0d4c8;border-radius:12px;padding:1.1rem 1.2rem}.muted{color:#6b5e56;font-size:.95rem}.plans{display:flex;flex-wrap:wrap;gap:1rem;margin:1rem 0}.plan{flex:1 1 240px;background:#fff;border:1px solid #f0d4c8;border-radius:12px;padding:1.2rem}.plan.featured{border:2px solid #e85d4c;background:#fff5f2;box-shadow:0 4px 16px rgba(232,93,76,.12)}.price{font-size:1.45rem;font-weight:700;color:#c94a3a}.annual{font-size:.9rem;color:#6b5e56;margin:.25rem 0 .75rem}.plan ul{margin:0;padding-left:1.1rem}.plan li{margin:.35rem 0}.badge{display:inline-block;background:#e85d4c;color:#fff;font-size:.75rem;padding:.15rem .5rem;border-radius:999px;margin-bottom:.5rem}.steps{padding-left:1.2rem}.faq details{background:#fff;border:1px solid #f0d4c8;border-radius:10px;padding:.7rem 1rem;margin:.6rem 0}.faq summary{font-weight:600;cursor:pointer;color:#1f1a16}.faq p{margin:.6rem 0 .2rem}.cta{display:inline-block;background:#e85d4c;color:#fff;padding:.55rem 1rem;border-radius:8px;font-weight:600}.cta:hover{text-decoration:none;background:#c94a3a}.footer{background:#2b241f;color:#f5ebe6;padding:1.5rem 0;margin-top:2rem;font-size:.9rem}.footer a{color:#ffb4a8}.grid-links{display:flex;flex-wrap:wrap;gap:.5rem 1rem}.adbox{background:#fff5f2;border:1px dashed #e85d4c;border-radius:10px;padding:1rem;text-align:center;margin:1rem 0}section{padding:.5rem 0 1rem}ul.map{padding-left:1.2rem}@media(min-width:720px){h1{font-size:2.1rem}.hero{padding:2.25rem 0 1.25rem}}</style><header><div class=\"wrap nav\"><a class=\"brand\" href=\"#\">161886</a><nav><a href=\"#intro\">简介</a><a href=\"#scenes\">场景</a><a href=\"#plans\">套餐</a><a href=\"#guide\">下载与使用</a><a href=\"#faq\">常见问题</a><a href=\"#official\">官网声明</a></nav></div></header><main class=\"wrap\"><section id=\"intro\" class=\"hero\"><h1>161886 官方网站：VPN 梯子网络加速、机场订阅与客户端下载</h1><p>161886 是面向个人与团队的网络加速品牌，以机场订阅为核心，提供可导入的节点、多平台客户端以及面向流媒体与游戏的线路分层。本站为 161886 官方网站，用于说明套餐、操作步骤与客户端获取方式，避免在非官方渠道下载来路不明的安装包。</p><p>服务定位清晰：把流量配额、同时在线设备数、解锁范围和线路类型写进套餐，而不是用含糊口号代替说明。你可以根据使用强度在基础版、旗舰版与团队版之间选择，再按官方流程完成订阅导入与连接。</p></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"stagger\"><article class=\"panel\"><h3>内容访问与学习研究</h3><p>需要查阅公开资料、观看已授权的海外流媒体或使用国际协作工具时，稳定出口比单纯“能连上”更重要。161886 将基础解锁与全节点原生解锁分开标注，减少选错线路后反复切换的成本。</p></article><article class=\"panel\"><h3>跨境办公与远程协作</h3><p>会议软件、代码仓库与云桌面对丢包敏感。普通线路适合邮件与网页，持续会议或大文件同步更适合高带宽节点。团队版支持更多设备同时在线，并预留企业定制路由空间。</p></article></div><div class=\"stagger reverse\"><article class=\"panel\"><h3>游戏加速</h3><p>旗舰版包含 IPLC 专线游戏加速优化，用于降低跨区对战中的抖动。实际延迟仍取决于本地运营商到节点的路径，请在客户端内选择延迟更低、丢包更少的游戏向节点。</p></article><article class=\"panel\"><h3>家庭多设备与小团队</h3><p>手机、电脑与平板同时在线时，设备上限比单日流量更容易先被触及。基础版覆盖 3 台，旗舰版 5 台，团队版 20 台，便于按真实终端数量规划，而不是事后频繁掉线再升级。</p></article></div></section><section id=\"plans\"><h2>161886 机场订阅套餐</h2><p class=\"muted\">价格按月展示，按年付可锁定优惠。流量为每月极速额度，具体重置规则以订购页说明为准。请先在官网完成订阅，再于客户端导入，本页不设置在线表单。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><p><a class=\"cta\" href=\"#guide\">了解客户端导入</a></p></article><article class=\"plan featured\"><p class=\"badge\">推荐</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><p><a class=\"cta\" href=\"#guide\">前往操作说明</a></p></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><p><a class=\"cta\" href=\"#official\">查看官网说明</a></p></article></div></section><section id=\"guide\"><h2>操作说明与客户端下载</h2><h3>推荐流程</h3><ol class=\"steps\"><li>对照套餐确认流量、设备数、流媒体与游戏需求，优先选择不过度闲置也不轻易超限的档位。</li><li>在 161886 官网完成订购，保存订阅链接。该链接用于客户端更新节点，请勿公开分享以免占用你的设备配额。</li><li>安装与订阅格式兼容的客户端：桌面端常用 Clash 系或同类内核；Android 使用可导入订阅的加速应用；iOS 使用系统商店内支持订阅的客户端并遵守平台规范。</li><li>打开客户端，选择从 URL 导入或更新订阅，等待节点列表刷新完成。</li><li>按延迟与用途筛选节点：网页浏览可选普通线路，影视选择解锁节点，对战游戏优先 IPLC。连接后用目标站点做一次连通测试。</li></ol><h3>官方下载原则</h3><p>161886 官方下载指引只强调“兼容订阅的正规客户端”，不捆绑来源不明的修改包。获取顺序应当是：官网确认套餐与订阅 → 安装官方或开源常见客户端 → 导入订阅。若某页面以“破解无限流量”诱导下载，即可判定与 161886 无关。</p><p>导入失败时，依次检查订阅是否在有效期、在线设备是否超过套餐上限、系统时间是否准确，以及客户端是否选择了对应的订阅类型。仍无法更新时，保留错误原文通过工单反馈。</p><p><a class=\"cta\" href=\"#plans\">返回套餐对比</a></p></section><section id=\"nodes\"><h2>节点、线路与使用边界</h2><div class=\"stagger\"><article class=\"panel\"><h3>线路分层</h3><p>节点池按用途分为普通线路与 IPLC 专线。普通线路承担日常网页、即时通讯与轻度视频；IPLC 更适合游戏与实时会话。覆盖方向以东亚、北美、东南亚主要出口为主，列表以客户端实时结果为准，本页不虚构具体毫秒数或评分。</p></article><article class=\"panel\"><h3>性能预期</h3><p>同一套餐在不同宽带与高峰时段表现会有差异。建议在客户端内多次测延迟，避开拥塞节点，而不是固定某一个名称。旗舰版强调原生流媒体与游戏优化，团队版强调带宽与路由定制，两者都不能替代本地网络本身的质量。</p></article></div></section><section id=\"faq\" class=\"faq\"><h2>常见问题</h2><p class=\"muted\">以下问题按实际开通与导入顺序整理，便于对照操作，不替代工单诊断。</p><details><summary>161886 官方网站如何识别？客户端该从哪里下载？</summary><p>请认准品牌名「161886」以及本页关于机场订阅、VPN 梯子与客户端导入的完整说明。官方网站只提供套餐与操作指引，不诱导安装来路不明的加速器。客户端应使用可导入标准订阅的正规软件，完成订购后再导入链接。</p></details><details><summary>如何把机场订阅导入到电脑或手机？</summary><p>订购成功后复制订阅 URL，在 Windows、macOS、Android 或 iOS 客户端中选择“从 URL 更新/导入”。等待节点刷新，再按延迟选择线路并开启系统代理或增强模式。若提示失败，先确认链接完整、套餐未过期、设备数未超限。</p></details><details><summary>基础版、旗舰版和团队版怎么选？流量用完怎么办？</summary><p>轻度使用且不超过 3 台设备选基础版（100GB，基础流媒体）。需要原生解锁、IPLC 游戏优化和 5 台设备选旗舰版（300GB）。小团队或大量终端选团队版（1000GB、20 台）。月度极速流量用尽后可能降速或需等待重置，用量波动大时更适合按年付并预留余量。</p></details><details><summary>同时在线设备超了会怎样？家庭共用要注意什么？</summary><p>基础版 3 台、旗舰版 5 台、团队版 20 台。超出后新设备可能无法握手或挤占旧连接。平板、电脑和手机都计入配额，长期挂机的终端应主动断开。需要更多席位时升级套餐，比反复重连更稳定。</p></details><details><summary>视频提示地区限制或一直转圈，如何处理？</summary><p>基础版仅覆盖基础流媒体，完整原生解锁请使用旗舰版或团队版中标注解锁的节点。同时关闭干扰插件、避免多层代理叠加，并更换一次节点后重试。若只有个别平台失败，把节点名称与提示原文发给优先工单（旗舰版）或客户经理（团队版）。</p></details><details><summary>玩游戏延迟高，IPLC 一定能解决吗？</summary><p>IPLC 专线用于优化跨区路径上的抖动，但不能改写你本地宽带的国际出口质量。请在旗舰版中选择游戏向节点，开启客户端增强模式，并匹配游戏区服地理位置。若普通线路丢包明显而专线明显更稳，再把该节点设为常用。</p></details><details><summary>团队是否支持定制路由？发票如何申请？</summary><p>团队版提供 VIP 高带宽节点、企业定制路由与专属客户经理。对公信息、发票类需求请走官网公示的工单流程，不要在非正式聊天中确认未展示的折扣或节点承诺。定制路由需要说明办公网段与分流目标，便于避免娱乐流量与办公流量互相抢占。</p></details></section><section id=\"official\"><h2>官方身份与使用提示</h2><p>本页是 161886 官方网站的静态介绍，内容覆盖品牌简介、套餐对照、客户端下载原则与常见问题。任何要求你关闭安全软件、安装未知证书或支付到个人账户的信息，都不应视为官方流程。</p><p>网络加速与机场订阅需遵守所在地区法律法规以及各内容平台条款。161886 提供的是连接与线路分层能力，不鼓励将服务用于侵权传播或其他违法用途。请把订阅链接当作账号凭证保管。</p></section><section id=\"ads\"><h2>展示合作</h2><div class=\"adbox\"><p>广告与互换展示位：欢迎工具导航、教程站点与 161886 官网进行文字互换。本区域为静态说明，不含第三方脚本或外部资源，具体合作请通过官网公示渠道联系并注明来意。</p><p><a href=\"#links\">查看友情链接规范</a></p></div></section><section id=\"links\"><h2>友情链接</h2><p class=\"muted\">友链以相关工具与说明页为主，全部使用站内锚点，避免跳转到不明下载源。</p><div class=\"grid-links\"><a href=\"#guide\">客户端导入手册</a><a href=\"#plans\">套餐一览</a><a href=\"#faq\">问题中心</a><a href=\"#nodes\">线路说明</a><a href=\"#official\">官方声明</a><a href=\"#sitemap\">网站地图</a></div></section><section id=\"sitemap\"><h2>网站地图</h2><ul class=\"map\"><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#plans\">机场订阅套餐</a></li><li><a href=\"#guide\">操作说明与客户端下载</a></li><li><a href=\"#nodes\">节点与线路</a></li><li><a href=\"#faq\">常见问题</a></li><li><a href=\"#official\">官网声明</a></li><li><a href=\"#ads\">展示合作</a></li><li><a href=\"#links\">友情链接</a></li></ul></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer class=\"footer\"><div class=\"wrap\"><p>161886 官方网站 · 机场订阅 · VPN 梯子网络加速 · 客户端下载指引</p><p>本站为静态页面，价格与配额以订购时展示为准。请通过官网获取订阅后再导入客户端。</p><p><a href=\"#intro\">返回顶部</a> · <a href=\"#sitemap\">网站地图</a> · <a href=\"#faq\">常见问题</a></p></div></footer>",
+          "hash": "770bb4039f2a684e15e79ec2cdf3cd5d8febb2b9de9370137f246db1e63175f0",
+          "seo": {
+            "title": "161886官网 | VPN梯子网络加速、机场订阅与客户端下载",
+            "keywords": "161886,161886机场,161886 VPN,VPN梯子,网络加速,加速器,机场订阅,客户端下载,官网下载,IPLC",
+            "description": "161886是提供机场订阅与VPN梯子网络加速的官方网站，支持多端客户端下载，覆盖流媒体解锁、游戏加速与团队组网，透明套餐助力稳定连接。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "beugf.cn",
+    "host": "p-10e8f6438a.beugf.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "e581d854cc48d3208fa1f83fa1d06fe1c838ff5c74c5919e5ee1d7704e1ff615",
+    "sitemap.xml": "c258d68b36171ebc58cc3e49d5d5edd759b12dbe847d37b888af6ec44960fccc",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d9ac465dd858d19742fce80f714a7a5bba584fcfa053bf648b5da88dc3ced0d8",
+    "robots.txt": "422194efd1883a033d508e3e1ec91a8d08913c94f664bcf85ae2668087988e5c",
+    "8c214de113026bea4f68a76b3f2d9f6d.txt": "20a2ad2346a707e181de050379f5d5a1b12d8fe3385afb4cac833623db004db2"
+  },
+  "revision": "e86ff54b8a1584fd330681e4056b5c38a6fe07ee532d3cc2023e07dc894b768a"
+}
